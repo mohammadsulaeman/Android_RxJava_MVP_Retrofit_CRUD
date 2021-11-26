@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Crud_RxRetrofit</string>
+    <string name="namasiswa">namasiswa</string>
+    <string name="nimsiswa">nimsiswa</string>
+    <string name="alamatsiswa">alamatsiswa</string>
+    <string name="phonesiswa">phonesiswa</string>
+    <string name="namaEmpty">Nama Tidak Boleh Kosong</string>
+    <string name="nimEmpty">Nim Tidak Boleh Kosong</string>
+    <string name="alamatEmpty">Alamat Tidak Boleh Kosong</string>
+    <string name="phoneEmpty">Nomor Telepon Tidak Boleh Kosong</string>
+    <string name="edit_dan_delete_data_mahasiswa">Edit Dan Delete Data Mahasiswa</string>
+</resources>
